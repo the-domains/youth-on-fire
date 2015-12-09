@@ -22,7 +22,7 @@ color:
     - '#fefe4b'
     - '#fb9200'
   brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.1875
+  lightness: 0.875
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
