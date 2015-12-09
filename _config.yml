@@ -1,6 +1,6 @@
 name: Youth on Fire
 favicon: null
-layout_spectrum: 0.49224
+layout_spectrum: 0.49946
 typography_spectrum: 0.20538
 title: Youth on Fire
 cta:
@@ -24,6 +24,6 @@ color:
     - '#fb9200'
   brandStrength: 1
   lightness: 0.875
-  saturation: 1
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
