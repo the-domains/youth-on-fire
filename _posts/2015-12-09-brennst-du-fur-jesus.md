@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T16:17:24.175Z'
-dateModified: '2015-12-10T16:17:17.900Z'
+datePublished: '2015-12-10T16:19:42.341Z'
+dateModified: '2015-12-10T16:19:33.242Z'
 title: Brennst Du für Jesus?
 author: []
 sourcePath: _posts/2015-12-09-brennst-du-fur-jesus.md
@@ -22,7 +22,7 @@ url: brennst-du-fur-jesus/index.html
 _type: Article
 
 ---
-# **Brennst Du für Jesus?**
+**Brennst Du für Jesus?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aeaa54c-1cc6-4c6e-b0a6-bcc8f579d489.jpg)
 
 Jesus war ein Brandstifter! Er sagte: 
