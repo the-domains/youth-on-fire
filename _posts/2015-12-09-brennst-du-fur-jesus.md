@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T11:49:08.446Z'
-dateModified: '2015-12-14T11:49:05.262Z'
+datePublished: '2015-12-14T11:52:00.245Z'
+dateModified: '2015-12-14T11:51:57.686Z'
 title: Brennst Du für Jesus?
 author: []
 sourcePath: _posts/2015-12-09-brennst-du-fur-jesus.md
@@ -31,7 +31,7 @@ _"Ich bin gekommen, um auf der Erde ein Feuer anzuzünden; ich wünschte, es wü
 
 Dabei ging es ihm nicht darum, Häuser abzufackeln, sondern Herzen anzuzünden. Seine Vision: ein weltweiter Flächenbrand der Liebe!
 
-**Ignite - **Mit den Gaben, die Gott uns gegeben hat, wollen wir Menschen für Jesus begeistern.
+**Ignite **- Mit den Gaben, die Gott uns gegeben hat, wollen wir Menschen für Jesus begeistern.
 
 **Induce **- Wir wollen die Leute befähigen, Teil der weltweiten Jesus-Bewegung zu sein - dem Reich Gottes.
 
