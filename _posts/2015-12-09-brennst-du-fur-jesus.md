@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T11:52:00.245Z'
-dateModified: '2015-12-14T11:51:57.686Z'
+datePublished: '2015-12-14T11:52:38.018Z'
+dateModified: '2015-12-14T11:52:31.045Z'
 title: Brennst Du für Jesus?
 author: []
 sourcePath: _posts/2015-12-09-brennst-du-fur-jesus.md
