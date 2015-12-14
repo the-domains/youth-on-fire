@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T11:28:20.391Z'
-dateModified: '2015-12-14T11:28:08.969Z'
+datePublished: '2015-12-14T11:38:15.996Z'
+dateModified: '2015-12-14T11:37:47.400Z'
 title: Brennst Du für Jesus?
 author: []
 sourcePath: _posts/2015-12-09-brennst-du-fur-jesus.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # **Brennst Du für Jesus?**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d530f96-d7ba-45de-abd5-b405a3f0f861.jpg)
 
 Jesus war ein Brandstifter! Er sagte:
 ![Ich bin gekommen, um auf der Erde ein Feuer anzuzünden; ich wünschte, es würde schon brennen! Lukas 12,49](https://the-grid-user-content.s3-us-west-2.amazonaws.com/605d6fdf-2b37-48e2-8399-d1e9fe7e1904.jpg)
