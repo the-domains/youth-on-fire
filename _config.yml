@@ -1,20 +1,4 @@
-name: Youth on Fire
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.19271
-title: Youth on Fire
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.875
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Youth on Fire
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Youth on Fire
+description: Ignite Induce Inspire
 purpose: []
